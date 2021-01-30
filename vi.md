@@ -1,5 +1,7 @@
 内容整理自  【[C语言中文网](http://c.biancheng.net/)】-- 【[Linux vi命令](http://c.biancheng.net/vi/)】
 
+---
+
 
 
 #### vi三模式
