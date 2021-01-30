@@ -1,4 +1,9 @@
+内容整理自  【[C语言中文网](http://c.biancheng.net/)】-- 【[Linux vi命令](http://c.biancheng.net/vi/)】
+
+
+
 #### vi三模式
+
 ***
 
 vi默认命令行模式，按 a / i / o 进入文本编辑模式
