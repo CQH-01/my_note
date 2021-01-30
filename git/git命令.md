@@ -67,3 +67,6 @@ git pull origin main   //
 git push origin main  //
 ```
 
+```
+执行rm -f .git/index.lock   //移除错误操作导致的进程锁
+```
